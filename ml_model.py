@@ -5,3 +5,5 @@ def model1():
 
 def moel2():
 	pass
+
+print("Model 1 is selected")
